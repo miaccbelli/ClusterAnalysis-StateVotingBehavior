@@ -1,5 +1,5 @@
 # Mia Belli
-# 12/15/23
+# Date: 2023
 # Clustering with Votes for Republican Candidates in Presidential Elections
 
 #### LOADING PACKAGES & DATA - CLUSTERING ####
